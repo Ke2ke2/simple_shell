@@ -150,4 +150,4 @@ void free_all_data(data_of_program *data);
 
 int builtin_exit(data_of_program *data);
 
-
+#endif
